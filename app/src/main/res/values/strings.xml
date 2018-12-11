@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Practical2_BMICalculator</string>
+    <string name="Calculate">Calculate</string>
+    <string name="Weight">Weight(kg)</string>
+    <string name="Height">Height(cm)</string>
+    <string name="Close">Close</string>
+    <string name="error_message">Please enter a value</string>
+</resources>
